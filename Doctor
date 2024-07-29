@@ -1,0 +1,11 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingIdDoctorID|DoctorName|Specialty|Office
+10001|Vasavya|Cardio|111
+10002|Harsha|ortho|112
+10003|Ramya|Neuro|113
+10004|Mani|Eye|114
+10005|Akshay|Phycology|115
+10006|mouni|ENT|116
+10007|Teja|Nerves|117
+10008|Manasa|Lungs|118
+10009|Vijay|Cardio|119
+10010|Ajay|Neuro|120

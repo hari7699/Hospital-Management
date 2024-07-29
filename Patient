@@ -1,0 +1,11 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingIdDoctorID|DoctorName|Specialty|OfficePatientID|PatientName|PatientEmail|PatientPhoneNumber|DoctorIDPatientID|AdmissionDate|DoctorID|LocationPatientID|PatientName|PatientEmail|PatientPhoneNumber
+1|A|a@gmail.com|123456789
+2|B|b@gmail.com|123456789
+3|C|c@gmail.com|123456789
+4|D|d@gmail.com|123456789
+5|E|e@gmail.com|123456789
+6|F|f@gmail.com|123456789
+7|G|g@gmail.com|123456789
+8|H|h@gmail.com|123456789
+9|I|i@gmail.com|123456789
+10|J|j@gmail.com|123456789

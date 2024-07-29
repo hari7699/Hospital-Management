@@ -1,0 +1,6 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingIdDoctorID|DoctorName|Specialty|OfficePatientID|PatientName|PatientEmail|PatientPhoneNumber|DoctorIDPatientID|AdmissionDate|DoctorID|LocationPatientID|PatientName|PatientEmail|PatientPhoneNumberPharmacyID|PharmacyLocation|PharmacistsPrescriptionID|PatientID|Data|DoctorID
+90|1|adsfssfg|10001
+91|2|safdgg|10010
+92|3|dsgfdhjhdd|10005
+93|4|srwergrfg|10007
+94|4|sfdsfdtgf|10004

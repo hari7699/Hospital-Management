@@ -1,0 +1,6 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingIdDoctorID|DoctorName|Specialty|OfficePatientID|PatientName|PatientEmail|PatientPhoneNumber|DoctorIDPatientID|AdmissionDate|DoctorID|LocationPatientID|PatientName|PatientEmail|PatientPhoneNumberPharmacyID|PharmacyLocation|Pharmacists
+11|St Cloud|abc
+12|Minnesota|asd
+13|Newyork|wer
+14|Chicago|qwe
+15|Denvor|rrt

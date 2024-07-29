@@ -1,0 +1,11 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingId
+101|Single|1|1|1001
+102|Double|2|2|1010
+103|Single|2|1|1009
+104|Double|2|2|1006
+105|1|1|2|1005
+106|General|10|10|1004
+107|Delux|3|3|1008
+108|General|5|5|1002
+109|Single|1|1|1005
+110|Double|2|2|1008

@@ -1,0 +1,6 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingIdDoctorID|DoctorName|Specialty|OfficePatientID|PatientName|PatientEmail|PatientPhoneNumber|DoctorIDPatientID|AdmissionDate|DoctorID|LocationPatientID|PatientName|PatientEmail|PatientPhoneNumberPharmacyID|PharmacyLocation|PharmacistsPrescriptionID|PatientID|Data|DoctorIDBillID|PatientID|Amount|Status
+61|1|1000|paid
+62|3|200|not-paid
+63|5|300|paid
+64|2|100|paid
+65|1|121|NA

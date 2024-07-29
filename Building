@@ -1,0 +1,11 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManager
+1001|Alpha|20|12 street, st cloud|Residential|Krishna
+1002|Beta|30|13 street, st cloud|Educational|Hari
+1003|Gamma|10|14 street, st cloud|Residential|Deekshith
+1004|Delta|15|15 street, st cloud|Office|Mike
+1005|Epsilon|12|15 street, st cloud|Educational|Luke
+1006|Zeta|9|16 street, st. cloud|Educational|Mad
+1007|Eta|7|17 street, st. cloud|Educational|Elvin
+1008|Theta|12|18 street, st cloud|Residential|Elle
+1009|Iota|12|19 street, st cloud|Educational|winnie
+1010|Kappa|14|20 street, st cloud|Office|Kinny

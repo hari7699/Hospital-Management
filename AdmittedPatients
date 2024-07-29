@@ -1,0 +1,6 @@
+BuildingId|BuildingName|NoOfRooms|BuildingAddress|TypeOfBuilding|BuildingManagerRoomID|RoomType|RoomSize|NoOfBeds|BuildingIdDoctorID|DoctorName|Specialty|OfficePatientID|PatientName|PatientEmail|PatientPhoneNumber|DoctorIDPatientID|AdmissionDate|DoctorID|Location
+1|01/02/2022|10005|Alpha
+5|05/06/2022|10010|Beta
+9|03/04/2022|10006|Gamma
+6|04/05/2022|10004|Delta
+8|02/01/2022|10010|Alpha
